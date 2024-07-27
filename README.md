@@ -32,8 +32,7 @@
 
 - **🌟Languages:**
 -  English: Full Professional Proficiency
--  German: A-1 Level Proficiency;
--          A-2 Level (Elementary) - Currently learning
+-  German: A-1 Level Proficiency, A-2 Level (Elementary) - Currently learning
 -  Hindi: Full Professional Proficiency
 -  Marathi: Native Proficiency
 
