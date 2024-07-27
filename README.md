@@ -27,15 +27,15 @@
 - **👨‍💻 Currently Learning:** Advanced JavaScript frameworks and libraries (React, Angular)
 
 - **🤝 Organizations:**
-- [RIT Girls Hostel (1/2022 - Present): Student Representative
--  RIT Hackathon (2022): Volunteer](RIT Girls Hostel (1/2022 - Present): Student Representative RIT Hackathon (2022): Volunteer)
+-  RIT Girls Hostel (1/2022 - Present): Student Representative
+-  RIT Hackathon (2022): Volunteer
 
 - **🌟Languages:**
--  [English: Full Professional Proficiency
--  German: A-1 Level Proficiency; A-2 Level (Elementary) - Currently learning
+-  English: Full Professional Proficiency
+-  German: A-1 Level Proficiency;
+-          A-2 Level (Elementary) - Currently learning
 -  Hindi: Full Professional Proficiency
--  Marathi: Native Proficiency](English: Full Professional Proficiency German: A-1 Level Proficiency; A-2 Level (Elementary) - Currently learning Hindi: Full 
-   Professional Proficiency Marathi: Native Proficiency)
+-  Marathi: Native Proficiency
 
 - **💼 Work Experience:** Intern Bubble Byte Ventures Pvt Ltd, Islampur (8/2022 - 3/2023)
 -  Developed front-end components for client projects using HTML, CSS, JavaScript, Tailwind. Maintained and updated Bubble Byte's main website. Collaborated with 
