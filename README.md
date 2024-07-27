@@ -7,21 +7,39 @@
 
 - 🎓 Education: **Bachelor of Technology in Computer Science Engineering Rajarambapu Institute of Technology, Rajaramnagar, Maharashtra Expected Graduation: 2025**
 
-- 💡 Interests: **Web Development Software Engineering Open Source Contributions Continuous Learning and Skill Development**
+- 💡 Interests:
+- **Web Development**
+- **Software Engineering**
+- **Open Source Contributions**
+- **Continuous Learning and Skill Development**
 
-- 🔭Skills & Technologies: **Programming Languages: Java, C, C++, JavaScript Web Development: HTML, CSS, JavaScript, Tailwind,Bootstrap Mobile Development: Flutter Databases: MySQL Other Skills: Data Structures and Algorithms (DSA), Leadership, Problem-solving, Debugging, Team Collaboration**
+- 🔭Skills & Technologies:
+- **Programming Languages: Java, C, C++, JavaScript**
+- **Web Development: HTML, CSS, JavaScript, Tailwind,Bootstrap**
+- **Mobile Development: Flutter**
+- **Databases: MySQL**
+- **Other Skills: Data Structures and Algorithms (DSA), Leadership, Problem-solving, Debugging, Team Collaboration**
 
-- 👨‍💻 Currently Learning: **Advanced JavaScript frameworks and libraries (React, Angular) Backend development with Node.js and Express.js**
+- 👨‍💻 Currently Learning: **Advanced JavaScript frameworks and libraries (React, Angular)**
 
-- 🤝 Organizations: [RIT Girls Hostel (1/2022 - Present): Student Representative RIT Hackathon (2022): Volunteer](RIT Girls Hostel (1/2022 - Present): Student Representative RIT Hackathon (2022): Volunteer)
+- 🤝 Organizations:
+- [RIT Girls Hostel (1/2022 - Present): Student Representative
+-  RIT Hackathon (2022): Volunteer](RIT Girls Hostel (1/2022 - Present): Student Representative RIT Hackathon (2022): Volunteer)
 
-- 🌟Languages: [English: Full Professional Proficiency German: A-1 Level Proficiency; A-2 Level (Elementary) - Currently learning Hindi: Full Professional Proficiency Marathi: Native Proficiency](English: Full Professional Proficiency German: A-1 Level Proficiency; A-2 Level (Elementary) - Currently learning Hindi: Full Professional Proficiency Marathi: Native Proficiency)
+- 🌟Languages: [English: Full Professional Proficiency
+-  German: A-1 Level Proficiency; A-2 Level (Elementary) - Currently learning
+-  Hindi: Full Professional Proficiency
+-  Marathi: Native Proficiency](English: Full Professional Proficiency German: A-1 Level Proficiency; A-2 Level (Elementary) - Currently learning Hindi: Full 
+   Professional Proficiency Marathi: Native Proficiency)
 
 - 💼 Work Experience: **Intern Bubble Byte Ventures Pvt Ltd, Islampur (8/2022 - 3/2023) Developed front-end components for client projects using HTML, CSS, JavaScript, Tailwind. Maintained and updated Bubble Byte's main website. Collaborated with designers and clients to translate requirements into functional web designs.**
 
-- 🌟 Achievements: **Paper titled "Enhancing Railway Platform Safety through Rotating and Sliding Gates with RFID Sensor Technology" accepted by Springer Nature's International Journal of Advances in Engineering Sciences and Applied Mathematics. HackerRank Java Gold Badge**
+- 🌟 Achievements: **Paper titled "Enhancing Railway Platform Safety through Rotating and Sliding Gates with RFID Sensor Technology" accepted by Springer Nature's International Journal of Advances in Engineering Sciences and Applied Mathematics.**
+- **HackerRank Java Gold Badge**
 
-- 📫 Get in Touch: [📧 Email: shreyaj2705@gmail.com 📍 Location: Karad, Maharashtra, India LinkedIn](📧 Email: shreyaj2705@gmail.com 📍 Location: Karad, Maharashtra, India LinkedIn)
+- 📫 Get in Touch: [📧 Email: shreyaj2705@gmail.com
+- 📍 Location: Karad, Maharashtra, India LinkedIn]
+- (📧 Email: shreyaj2705@gmail.com 📍 Location: Karad, Maharashtra, India LinkedIn)
 
 - 🤝 Open to Opportunities: Fun fact **I am actively looking for web developer and software engineer roles. I am eager to join a dynamic team where I can contribute my skills and grow professionally. Let's connect and explore opportunities to work together!**
 
