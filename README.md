@@ -34,7 +34,9 @@
 -  Marathi: Native Proficiency](English: Full Professional Proficiency German: A-1 Level Proficiency; A-2 Level (Elementary) - Currently learning Hindi: Full 
    Professional Proficiency Marathi: Native Proficiency)
 
-- **💼 Work Experience:** Intern Bubble Byte Ventures Pvt Ltd, Islampur (8/2022 - 3/2023) Developed front-end components for client projects using HTML, CSS, JavaScript, Tailwind. Maintained and updated Bubble Byte's main website. Collaborated with designers and clients to translate requirements into functional web designs.
+- **💼 Work Experience:** Intern Bubble Byte Ventures Pvt Ltd, Islampur (8/2022 - 3/2023)
+-  Developed front-end components for client projects using HTML, CSS, JavaScript, Tailwind. Maintained and updated Bubble Byte's main website. Collaborated with 
+   designers and clients to translate requirements into functional web designs.
 
 - **🌟 Achievements:**
 - Paper titled "Enhancing Railway Platform Safety through Rotating and Sliding Gates with RFID Sensor Technology" accepted by Springer Nature's International 
@@ -42,9 +44,9 @@
 - HackerRank Java Gold Badge
 
 - **📫 Get in Touch:**
-- [📧 Email: shreyaj2705@gmail.com
-- 📍 Location: Karad, Maharashtra, India LinkedIn]
-- (📧 Email: shreyaj2705@gmail.com 📍 Location: Karad, Maharashtra, India LinkedIn)
+- 📧 Email: shreyaj2705@gmail.com
+- 📍 Location: Karad, Maharashtra, India LinkedIn
+
 
 - **🤝 Open to Opportunities:** 
 I am actively looking for web developer and software engineer roles. I am eager to join a dynamic team where I can contribute my skills and grow professionally. Let's connect and explore opportunities to work together!
