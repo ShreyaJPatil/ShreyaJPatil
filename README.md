@@ -4,7 +4,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Shreya Jagdish Patil</h1>
-<h3 align="center">Hello! I'm Shreya, a dedicated Computer Science Engineering student at Rajarambapu Institute of Technology. With a strong foundation in C, C++, and Java, I am passionate about developing web applications and enhancing my software engineering skills. I have hands-on experience with HTML, CSS, and JavaScript, and I love debugging and solving complex problems.</h3>
+<h3 align="center">Hello! I'm Shreya, a dedicated Computer Science Engineering student at Rajarambapu Institute of Technology. With a strong foundation in C, C++, and Java, I am passionate about developing web applications and enhancing my software engineering skills. I have hands-on experience with HTML, CSS, and JavaScript.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreyajpatil&label=Profile%20views&color=0e75b6&style=flat" alt="shreyajpatil" /> </p>
 
