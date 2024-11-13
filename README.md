@@ -19,7 +19,7 @@
 
 - **🔭Skills & Technologies:**
 - Programming Languages: Java, C, C++, JavaScript
-- Web Development: HTML, CSS, JavaScript, Tailwind,Bootstrap
+- Web Development: HTML, CSS, JavaScript, Tailwind CSS,Bootstrap
 - Mobile Development: Flutter
 - Databases: MySQL
 - Other Skills: Data Structures and Algorithms (DSA), Leadership, Problem-solving, Debugging, Team Collaboration
@@ -46,7 +46,7 @@
 - HackerRank Java Gold Badge
 
 - **📫 Get in Touch:**
-- 📧 Email: shreyaj2705@gmail.com
+- 📧 Email: shreyacse42@gmail.com
 - 📍 Location: Karad, Maharashtra, India. 
 
 
